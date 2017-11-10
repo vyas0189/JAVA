@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Summation {
 	public static void main(String[] args) {
+		System.out.println("Hello World");
 		System.out.println("Summation");
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter​ ​value​ ​for​ ​x:​ ​");
